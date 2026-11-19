@@ -1,0 +1,11 @@
+===== RANK 0 (2 lines) =====
+zero-a
+zero-b
+
+===== RANK 1 (1 lines) =====
+one-a
+
+===== RANK 2 (2 lines) =====
+two-a
+[stderr] warning two
+

@@ -1,0 +1,5 @@
+[1,2]<stdout>:two-a
+[1,0]<stdout>:zero-a
+[1,2]<stderr>:warning two
+[1,1]<stdout>:one-a
+[1,0]<stdout>:zero-b
